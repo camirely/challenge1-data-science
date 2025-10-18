@@ -23,4 +23,4 @@
 *Está aplicación se realizo para fines educativos, para mostrar el progreso de lo estudiado en Alura Latam y Oracle One.*
 *Gracias por su atención, saludos y exitos!!*
 
-https://beecrowd.com/wp-content/uploads/2024/04/2022-07-19-Melhores-cursos-de-Python.jpg
+![image](https://beecrowd.com/wp-content/uploads/2024/04/2022-07-19-Melhores-cursos-de-Python.jpg)
