@@ -23,4 +23,4 @@
 *Está aplicación se realizo para fines educativos, para mostrar el progreso de lo estudiado en Alura Latam y Oracle One.*
 *Gracias por su atención, saludos y exitos!!*
 
-![image](https://myvlcsys.com/wp-content/uploads/2024/01/python-1250x700.jpg)
+![image](https://miro.medium.com/v2/resize:fit:625/1*eKY_Q-9dYjlRfD1pMDh-dw.png)
