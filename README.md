@@ -1,9 +1,5 @@
 # challenge1-data-science
 
-<em> Challenge Data Science </em>
-
- ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
-
  ## [Descripción del proyecto](#descripción-del-proyecto)
  *Una aplicaciíon de python, que resuelve el caso de prueba y redacta el informe final.*
 
